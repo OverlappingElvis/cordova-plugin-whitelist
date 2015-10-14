@@ -23,10 +23,6 @@
     {
       "name": "cordova-android",
       "version": ">=4.0.0-dev"
-    },
-    {
-      "name": "cordova-ios",
-      "version": ">=3.9.1"
     }
   ],
   "author": "Apache Software Foundation",
