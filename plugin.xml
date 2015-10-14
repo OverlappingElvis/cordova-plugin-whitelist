@@ -19,17 +19,12 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-whitelist"
-      version="1.1.1-dev">
+           id="cordova-plugin-whitelist-dev"
+      version="1.1.6">
     <name>Whitelist</name>
     <description>Cordova Network Whitelist Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,whitelist,policy</keywords>
-
-    <engines>
-      <engine name="cordova-android" version=">=4.0.0-dev" />
-      <engine name="cordova-ios" version=">=4.0.0-dev" />
-    </engines>
 
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
